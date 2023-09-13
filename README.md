@@ -7,7 +7,7 @@ It starts with a main menu and you can choose whether to manage book loans or to
     <li>Delete a Loan </li>
     <li>Consult Loans Related to a Member </li>
    </ul>
-(https://github.com/WissemBellara/Library-Management-System-FR-/blob/main/Menu1.jpg?raw=true)
+(https://github.com/WissemBellara/Library-Management-System-FR-/blob/main/Menu1.PNG?raw=true)
 
   <h3> Upon choosing the 2nd menu, you can : </h3>
     <ul><li> Add a book and how number of available copies. </li>
