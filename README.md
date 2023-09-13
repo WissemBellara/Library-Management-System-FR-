@@ -17,3 +17,7 @@ It starts with a main menu and you can choose whether to manage book loans or to
     <li> Delete registered loans </li>
     <li> Show most wanted books </li>
     <li> Show most loyal customers </li>
+(https://github.com/WissemBellara/Library-Management-System-FR-/blob/main/Menu2.PNG?raw=true)
+
+(https://github.com/WissemBellara/Library-Management-System-FR-/blob/main/Menu3.PNG?raw=true)
+(https://github.com/WissemBellara/Library-Management-System-FR-/blob/main/EXP.PNG?raw=true)
