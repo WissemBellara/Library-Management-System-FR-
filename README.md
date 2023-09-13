@@ -20,4 +20,4 @@ It starts with a main menu and you can choose whether to manage book loans or to
 (https://github.com/WissemBellara/Library-Management-System-FR-/blob/main/Menu2.PNG?raw=true)
 
 (https://github.com/WissemBellara/Library-Management-System-FR-/blob/main/Menu3.PNG?raw=true)
-(https://github.com/WissemBellara/Library-Management-System-FR-/blob/main/EXP.PNG?raw=true)
+(https://github.com/WissemBellara/Library-Management-System-FR-/blob/main/Exp.PNG?raw=true)
